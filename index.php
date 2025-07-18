@@ -1,12 +1,12 @@
 
         <!--Подключаем голову-->
         <?php
-            require_once "../шапка_подвал/head.php";
+            require_once "шапка_подвал/head.php";
         ?>
     <div class="d-flex flex-column min-vh-100">
         <!--Подключаем шапку-->
         <?php
-            require_once "../шапка_подвал/header.php";
+            require_once "шапка_подвал/header.php";
         ?>
 
         <!--основная часть (контент)-->
@@ -91,7 +91,7 @@
 
         <!--Подключаем footer-->
         <?php
-        require_once "/Users/vutang/PhpstormProjects/пособник/шапка_подвал/footer.php";
+        require_once "шапка_подвал/footer.php";
         ?></div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
