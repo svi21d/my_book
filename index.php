@@ -1,12 +1,12 @@
 
         <!--Подключаем голову-->
         <?php
-            require_once "my_book/шапка_подвал/head.php";
+            require_once "../шапка_подвал/head.php";
         ?>
     <div class="d-flex flex-column min-vh-100">
         <!--Подключаем шапку-->
         <?php
-            require_once "my_book/шапка_подвал/header.php";
+            require_once "../шапка_подвал/header.php";
         ?>
 
         <!--основная часть (контент)-->
