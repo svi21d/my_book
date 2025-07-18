@@ -1,0 +1,46 @@
+/*! шапка профиля */
+
+.bb{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nav-nav {
+    background-color: #222222;
+
+}
+
+.navbar {
+    background-color: #222222;
+}
+
+.card_shadow{
+    box-shadow:15px 10px 10px #494949;
+}
+
+.rad{
+    border-radius: 25px;
+}
+
+.element:hover {
+    transform: scale(1.1 , 1.1);
+
+    border-radius: 25px;
+}
+
+.element {
+    /* … */
+    transition: transform .3s;
+}
+
+.bi{
+    color: #f8f9fa;
+    transition: transform .3s;
+}
+
+.bi:hover{
+    transform: scale(1.2 , 1.2);
+}
+
